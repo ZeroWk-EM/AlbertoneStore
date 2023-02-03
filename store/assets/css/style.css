@@ -1,0 +1,13 @@
+@media (min-width: 992px) {
+    .products img {
+        margin-left: 3rem;
+    }
+    .product-text h5 {
+        margin-top: 0;
+        margin-left: 2rem;
+        text-align: left !important;
+    }
+    .product-text p {
+        text-align: left !important;
+    }
+}

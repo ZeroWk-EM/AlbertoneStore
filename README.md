@@ -1,2 +1,2 @@
 # AlbertoneStore
-PHP,MYSQL CRUD Exercises
+Simple CRUD application developed in PHP adn MYSQL

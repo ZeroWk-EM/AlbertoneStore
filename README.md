@@ -1,6 +1,4 @@
-# AlbertoneStore
-
-Technologies Used
+## Technologies Used
 - MySQL
 - PHP
 - HTML
